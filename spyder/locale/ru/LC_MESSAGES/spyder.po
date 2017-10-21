@@ -304,7 +304,7 @@ msgstr "Загрузка справки..."
 
 #: spyder/app/mainwindow.py:826
 msgid "Loading outline explorer..."
-msgstr "Загузка менеджера структуры..."
+msgstr "Загрузка менеджера структуры..."
 
 #: spyder/app/mainwindow.py:834
 msgid "Loading editor..."
